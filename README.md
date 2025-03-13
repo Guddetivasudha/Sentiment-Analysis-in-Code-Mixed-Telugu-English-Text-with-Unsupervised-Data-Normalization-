@@ -1,0 +1,2 @@
+# Sentiment-Analysis-in-Code-Mixed-Telugu-English-Text-with-Unsupervised-Data-Normalization-
+This project aims to develop a sentiment analysis model for CMTET addressing challenges from language variations. By using unsupervised data normalization techniqueswe preprocess text effectively without labeled sentiment data. This approach enhances sentiment classification accuracy, overcoming limitations in existing models.
